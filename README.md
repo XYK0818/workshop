@@ -1,4 +1,4 @@
 # workshop
 sep 10 workshop
 
-citibike file uploaded first time
+citibike.sh file uploaded first time
